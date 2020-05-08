@@ -2,11 +2,14 @@
 Rasa is a very powerful tool of python that helps in building bots using some nlu and python along.<br>
 Rasa can be installed using the command:<br>
 ```pip install rasa```<br>
+
 Once you have installed rasa you can create the basic rasa template using command<br>
 ```rasa init```<br>
 If you are using my code you don't need to do this.<br>
+
 Once you have got the basic template and made changes in it according to your needs we need to go to the basic template <br>
 directory(in our case timezonebot) in two of the terminal windows.<br>
+
 <b>First Window</b><br>
 We need to run the action server as:<br>
 ```rasa run actions```<br>
