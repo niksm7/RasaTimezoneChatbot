@@ -24,7 +24,7 @@ Inside the shell you can the bot about timezone of a particular city as example:
 * What is the time zone of London?<br>
 * time zone of Mumbai<br>
 
-Also if you just enter # timezone without specifying the city it will ask you for the city name.<br>
+Also if you just enter timezone without specifying the city it will ask you for the city name.<br>
 
 Note : You can view how the bot approaches to a conclusion based on the confidence level using the command:<br>
 ```rasa nlu```<br>
