@@ -26,6 +26,6 @@ Inside the shell you can the bot about timezone of a particular city as example:
 
 Also if you just enter timezone without specifying the city it will ask you for the city name.<br>
 
-Note : You can view how the bot approaches to a conclusion based on the confidence level using the command:
-```rasa shell nlu```
+Note : You can view how the bot approaches to a conclusion based on the confidence level using the command:<br>
+```rasa shell nlu```<br>
 And then type your question.
